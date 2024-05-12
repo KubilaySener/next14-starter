@@ -1,7 +1,7 @@
 const SinglePostPage = () => {
   return (
     <div>
-      <h1>SinglePostPage</h1>
+      SinglePostPage
     </div>
   );
 };
